@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/10/19 星期一 1:32:16。
+     1>项目“d:\documents\visual studio 2015\Projects\Project2\Project2\Project2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2015.pro\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(35): error C2512: “worker”: 没有合适的默认构造函数可用
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(4): note: 参见“worker”的声明
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(56): error C2512: “worker”: 没有合适的默认构造函数可用
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(4): note: 参见“worker”的声明
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(81): error C2131: 表达式的计算结果不是常数
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(81): note: 非常量参数或对非常量符号的引用导致了故障
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(81): note: 请参见“i”的用法
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(81): error C2440: “初始化”: 无法从“initializer list”转换为“worker [i]”
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(81): note: 初始值设定项包含过多元素
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(85): error C2275: “worker”: 将此类型用作表达式非法
+         d:\documents\visual studio 2015\projects\project2\project2\源.cpp(4): note: 参见“worker”的声明
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(85): error C2228: “.name”的左边必须有类/结构/联合
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(95): error C2059: 语法错误:“[”
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(96): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(97): error C3484: 语法错误: 返回类型前应为“->”
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(97): error C3613: “->”后缺少返回类型(假定为“int”)
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(97): error C2540: 作为数组界限的非常量表达式
+     1>d:\documents\visual studio 2015\projects\project2\project2\源.cpp(97): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“d:\documents\visual studio 2015\Projects\Project2\Project2\Project2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.65
