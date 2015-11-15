@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/11/10 星期二 22:29:15。
+     1>项目“C:\Users\Administrator\Desktop\car and truck\car and truck\car and truck.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2015.pro\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(24): warning C4838: 从“double”转换到“LONG”需要收缩转换
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(24): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(26): warning C4838: 从“double”转换到“LONG”需要收缩转换
+     1>c:\users\administrator\desktop\car and truck\car and truck\源.cpp(26): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+       Link:
+         E:\vs2015.pro\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\car and truck\Debug\car and truck.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Administrator\Desktop\car and truck\Debug\car and truck.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\car and truck\Debug\car and truck.lib" /MACHINE:X86 "Debug\源.obj"
+         car and truck.vcxproj -> C:\Users\Administrator\Desktop\car and truck\Debug\car and truck.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\car and truck\car and truck\car and truck.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.95
